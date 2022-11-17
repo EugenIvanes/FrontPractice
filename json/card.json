@@ -26,15 +26,6 @@
     }
   ],
   "requests": [
-    {
-      "name": "Eugen Ivanes",
-      "phone": "+373 69-209-755",
-      "id": 1
-    },
-    {
-      "name": "Eugen Ivanes",
-      "phone": "+373 69-209-755",
-      "id": 2
-    }
+  
   ]
 }
